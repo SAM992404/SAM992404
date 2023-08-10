@@ -1,10 +1,5 @@
 ### Hi there, I am SAMHITHA 👋
 
-<!--
-**SAM992404/SAM992404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Python developer skills improving
 - 🌱 I’m currently learning Python Porgramming language...
 - 👯 I’m looking to collaborate Internship...
@@ -12,4 +7,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python related...
 - 📫 How to reach me: peddibhotlasamhitha08@gmail.com...
 
--->
